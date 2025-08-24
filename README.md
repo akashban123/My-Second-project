@@ -1,3 +1,11 @@
-# My-Second-project
+**ShopNest Store Performance Analysis into (Power BI)**
 
-During my ShopNest Stone Analytics Project (1st June – 15th June 2025), I analyzed operational and sales challenges using Power BI, SQL, and Excel. The situation involved uneven revenue across categories and delivery delays impacting customer satisfaction in different regions. My task was to identify key issues and provide actionable insights to improve sales and operational efficiency. I created interactive dashboards in Power BI to analyze top-performing categories, delivery delays, seasonal demand trends, and customer ratings. Using SQL and Excel, I extracted, cleaned, and organized sales and delivery data for accurate reporting. Based on insights, I recommended focusing on high-revenue categories, optimizing inventory placement to reduce bulky item delays, and improving logistics efficiency. As a result, the project highlighted strategies to reduce delivery bottlenecks, boost overall sales performance, and enhance customer satisfaction, showcasing the value of data-driven decision-making in e-commerce operations.
+Goal: To identify key factors affecting revenue, delivery performance, and customer satisfaction in ShopNest’s e-commerce operations.
+
+Description: The project analyzed sales, delivery delays, and customer satisfaction data across categories and regions between June 1st and June 15th, 2025. The work involved loading and preparing data, building interactive dashboards, identifying top-performing categories, analyzing seasonal trends, and investigating delay patterns. Insights were used to optimize inventory allocation and improve overall operations.
+
+Skills: data cleaning, data visualization, performance analysis, trend analysis, inventory optimization.
+
+Technology: Power BI, DAX, Excel.
+
+Results: The analysis highlighted top revenue-generating categories, reduced delays for bulky items through better inventory management, and improved customer satisfaction using data-driven insights.
